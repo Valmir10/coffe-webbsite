@@ -1,0 +1,699 @@
+@media screen and (max-width: 2560px) and (max-height: 1440px) {
+  .sidebar-customize-product {
+    width: 400px;
+  }
+}
+
+@media screen and (max-width: 1700px) and (max-height: 1200px) {
+  .cart-number {
+    position: absolute;
+    top: 12%;
+    left: 4%;
+    font-size: 25px;
+  }
+}
+
+@media screen and (max-width: 1200px) and (max-height: 800px) {
+  .cart-number {
+    position: absolute;
+    top: 12%;
+    left: 12%;
+    font-size: 23px;
+  }
+}
+
+@media screen and (max-width: 1366px) and (max-height: 900px) {
+  .cart-number {
+    position: absolute;
+    top: 12%;
+    left: 4%;
+    font-size: 20px;
+  }
+
+  .delete-icon-container img {
+    height: 25px;
+    width: 25px;
+  }
+
+  .delete-icon-container {
+    top: 1.5%;
+  }
+
+  .cart-product-quantity-container span {
+    font-size: 17px;
+    margin-left: 2px;
+    margin-right: 2px;
+
+    width: 28px;
+    height: 23px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .customize-options-container label {
+    font-size: 15px;
+  }
+
+  .cart-sidebar-container {
+    width: 20vw;
+  }
+}
+
+@media screen and (max-width: 1200px) and (max-height: 800px) {
+  .cart-number {
+    position: absolute;
+    top: 12%;
+    left: 4%;
+    font-size: 18px;
+  }
+}
+
+@media screen and (max-width: 1024px) and (max-height: 720px) {
+  .row-1-item-1,
+  .row-1-item-2,
+  .row-1-item-3,
+  .row-2-item-1,
+  .row-2-item-2,
+  .row-2-item-3,
+  .row-3-item-1,
+  .row-3-item-2,
+  .row-3-item-3,
+  .row-4-item-1,
+  .row-4-item-2,
+  .row-4-item-3 {
+    height: 100%;
+    width: 26%;
+  }
+
+  .product-name-1-coffe h2,
+  .product-name-2-coffe h2,
+  .product-name-3-coffe h2,
+  .product-name-4-coffe h2,
+  .product-name-5-coffe h2,
+  .product-name-6-coffe h2,
+  .product-name-1-dessert h2,
+  .product-name-2-dessert h2,
+  .product-name-3-dessert h2,
+  .product-name-4-dessert h2,
+  .product-name-5-dessert h2,
+  .product-name-6-dessert h2 {
+    font-size: 20px;
+  }
+
+  .product-price-1-coffe p,
+  .product-price-2-coffe p,
+  .product-price-3-coffe p,
+  .product-price-4-coffe p,
+  .product-price-5-coffe p,
+  .product-price-6-coffe p,
+  .product-price-1-dessert p,
+  .product-price-2-dessert p,
+  .product-price-3-dessert p,
+  .product-price-4-dessert p,
+  .product-price-5-dessert p,
+  .product-price-6-dessert p {
+    font-size: 23px;
+  }
+
+  .cart-number {
+    position: absolute;
+    top: 11%;
+    left: 2%;
+    font-size: 17px;
+  }
+
+  .cart-sidebar-container {
+    width: 23vw;
+  }
+}
+
+@media screen and (max-width: 900px) and (max-height: 1600px) {
+  .menu-page-container {
+    height: 130vh;
+  }
+
+  .menu-page-content {
+    width: 85%;
+  }
+
+  .coffe-menu-row-1,
+  .coffe-menu-row-2,
+  .dessert-menu-row-1,
+  .dessert-menu-row-2 {
+    width: 90%;
+  }
+
+  .coffe-menu-row-1,
+  .coffe-menu-row-2,
+  .dessert-menu-row-1,
+  .dessert-menu-row-2 {
+    gap: 3%;
+  }
+
+  .row-1-item-1,
+  .row-1-item-2,
+  .row-1-item-3,
+  .row-2-item-1,
+  .row-2-item-2,
+  .row-2-item-3,
+  .row-3-item-1,
+  .row-3-item-2,
+  .row-3-item-3,
+  .row-4-item-1,
+  .row-4-item-2,
+  .row-4-item-3 {
+    width: 33%;
+  }
+
+  .cart-sidebar-container {
+    width: 35vw;
+    top: 7%;
+    height: 93vh;
+  }
+
+  .sidebar-customize-product {
+    width: 35vw;
+    top: 7%;
+    height: 93vh;
+  }
+
+  .cart-buttons-container {
+    height: 15%;
+  }
+
+  .cart-buttons-container button {
+    margin-top: 35%;
+    height: 40%;
+  }
+
+  .cart-number {
+    position: absolute;
+    top: 13%;
+    left: 8%;
+    font-size: 23px;
+  }
+}
+
+@media screen and (max-width: 800px) and (max-height: 1400px) {
+  .cart-number {
+    position: absolute;
+    top: 12%;
+    left: 6%;
+    font-size: 22px;
+  }
+}
+
+@media screen and (max-width: 768px) and (max-height: 1280px) {
+  .menu-page-container {
+    height: 140vh;
+  }
+
+  .product-name-1-coffe h2,
+  .product-name-2-coffe h2,
+  .product-name-3-coffe h2,
+  .product-name-4-coffe h2,
+  .product-name-5-coffe h2,
+  .product-name-6-coffe h2,
+  .product-name-1-dessert h2,
+  .product-name-2-dessert h2,
+  .product-name-3-dessert h2,
+  .product-name-4-dessert h2,
+  .product-name-5-dessert h2,
+  .product-name-6-dessert h2 {
+    font-size: 18px;
+  }
+
+  .product-price-1-coffe p,
+  .product-price-2-coffe p,
+  .product-price-3-coffe p,
+  .product-price-4-coffe p,
+  .product-price-5-coffe p,
+  .product-price-6-coffe p,
+  .product-price-1-dessert p,
+  .product-price-2-dessert p,
+  .product-price-3-dessert p,
+  .product-price-4-dessert p,
+  .product-price-5-dessert p,
+  .product-price-6-dessert p {
+    font-size: 21px;
+  }
+
+  .cart-number {
+    position: absolute;
+    top: 11%;
+    left: 6%;
+    font-size: 21px;
+  }
+
+  .delete-icon-container img {
+    height: 24px;
+    width: 24px;
+  }
+}
+
+@media screen and (max-width: 720px) and (max-height: 1080px) {
+  .menu-page-container {
+    height: 160vh;
+  }
+
+  .cart-number {
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    font-size: 19px;
+  }
+
+  .menu-page-container {
+    padding-top: 80px;
+  }
+
+  .menu-page-content {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 600px) and (max-height: 960px) {
+  .menu-page-container {
+    height: 170vh;
+  }
+
+  .coffe-menu-row-1,
+  .coffe-menu-row-2,
+  .dessert-menu-row-1,
+  .dessert-menu-row-2 {
+    width: 95%;
+  }
+
+  .product-name-1-coffe h2,
+  .product-name-2-coffe h2,
+  .product-name-3-coffe h2,
+  .product-name-4-coffe h2,
+  .product-name-5-coffe h2,
+  .product-name-6-coffe h2,
+  .product-name-1-dessert h2,
+  .product-name-2-dessert h2,
+  .product-name-3-dessert h2,
+  .product-name-4-dessert h2,
+  .product-name-5-dessert h2,
+  .product-name-6-dessert h2 {
+    font-size: 16px;
+  }
+
+  .product-price-1-coffe p,
+  .product-price-2-coffe p,
+  .product-price-3-coffe p,
+  .product-price-4-coffe p,
+  .product-price-5-coffe p,
+  .product-price-6-coffe p,
+  .product-price-1-dessert p,
+  .product-price-2-dessert p,
+  .product-price-3-dessert p,
+  .product-price-4-dessert p,
+  .product-price-5-dessert p,
+  .product-price-6-dessert p {
+    font-size: 19px;
+  }
+
+  .menu-order-button-container button {
+    font-size: 14px;
+  }
+
+  .cart-number {
+    position: absolute;
+    top: 9%;
+    left: 5%;
+    font-size: 17px;
+  }
+
+  .cart-product-quantity-container span {
+    font-size: 17px;
+    margin-left: 2px;
+    margin-right: 2px;
+
+    width: 25px;
+    height: 20px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .cart-product-price-container p {
+    color: white;
+    font-size: 16px;
+  }
+
+  .customize-options-container label {
+    font-size: 13px;
+  }
+
+  .cart-buttons-container button {
+    margin-top: 32%;
+    height: 40%;
+  }
+}
+
+@media screen and (max-width: 480px) and (max-height: 850px) {
+  .cart-number {
+    position: absolute;
+    top: 7%;
+    left: 3%;
+    font-size: 14px;
+  }
+
+  .product-name-1-coffe h2,
+  .product-name-2-coffe h2,
+  .product-name-3-coffe h2,
+  .product-name-4-coffe h2,
+  .product-name-5-coffe h2,
+  .product-name-6-coffe h2,
+  .product-name-1-dessert h2,
+  .product-name-2-dessert h2,
+  .product-name-3-dessert h2,
+  .product-name-4-dessert h2,
+  .product-name-5-dessert h2,
+  .product-name-6-dessert h2 {
+    font-size: 14px;
+  }
+
+  .product-price-1-coffe p,
+  .product-price-2-coffe p,
+  .product-price-3-coffe p,
+  .product-price-4-coffe p,
+  .product-price-5-coffe p,
+  .product-price-6-coffe p,
+  .product-price-1-dessert p,
+  .product-price-2-dessert p,
+  .product-price-3-dessert p,
+  .product-price-4-dessert p,
+  .product-price-5-dessert p,
+  .product-price-6-dessert p {
+    font-size: 17px;
+  }
+
+  .menu-order-button-container button {
+    font-size: 12px;
+  }
+
+  .menu-page-content {
+    width: 93%;
+  }
+
+  .menu-page-container {
+    padding-top: 70px;
+  }
+
+  .product-image-1-coffe img,
+  .product-image-2-coffe img,
+  .product-image-3-coffe img,
+  .product-image-4-coffe img,
+  .product-image-5-coffe img,
+  .product-image-6-coffe img,
+  .product-image-1-dessert img,
+  .product-image-2-dessert img,
+  .product-image-3-dessert img,
+  .product-image-4-dessert img,
+  .product-image-5-dessert img,
+  .product-image-6-dessert img {
+    width: 50%;
+  }
+
+  .cart-product-quantity-container span {
+    font-size: 15px;
+
+    width: 21px;
+    height: 16px;
+  }
+
+  .cart-product-price-container p {
+    font-size: 14px;
+  }
+
+  .delete-icon-container img {
+    height: 19px;
+    width: 19px;
+  }
+
+  .delete-icon-container {
+    right: 0;
+    top: 1%;
+  }
+  .cart-sidebar-container {
+    width: 40vw;
+  }
+
+  .sidebar-customize-product {
+    width: 40vw;
+  }
+
+  .customize-option-content-1 input,
+  .customize-option-content-2 input,
+  .customize-option-content-3 input,
+  .customize-option-content-4 input,
+  .customize-option-content-5 input,
+  .customize-option-content-6 input,
+  .customize-option-content-7 input {
+    height: 18px;
+    width: 18px;
+  }
+
+  .customize-options-container label {
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 414px) and (max-height: 750px) {
+  .menu-page-content {
+    width: 96%;
+  }
+
+  .cart-product-img-container img {
+    width: 85%;
+  }
+
+  .delete-icon-container {
+    top: 3%;
+  }
+
+  .delete-icon-container img {
+    height: 16px;
+    width: 16px;
+  }
+
+  .cart-order-container:nth-child(1) {
+    margin-top: 30%;
+  }
+
+  .product-name-1-coffe h2,
+  .product-name-2-coffe h2,
+  .product-name-3-coffe h2,
+  .product-name-4-coffe h2,
+  .product-name-5-coffe h2,
+  .product-name-6-coffe h2,
+  .product-name-1-dessert h2,
+  .product-name-2-dessert h2,
+  .product-name-3-dessert h2,
+  .product-name-4-dessert h2,
+  .product-name-5-dessert h2,
+  .product-name-6-dessert h2 {
+    font-size: 12px;
+  }
+
+  .product-price-1-coffe p,
+  .product-price-2-coffe p,
+  .product-price-3-coffe p,
+  .product-price-4-coffe p,
+  .product-price-5-coffe p,
+  .product-price-6-coffe p,
+  .product-price-1-dessert p,
+  .product-price-2-dessert p,
+  .product-price-3-dessert p,
+  .product-price-4-dessert p,
+  .product-price-5-dessert p,
+  .product-price-6-dessert p {
+    font-size: 15px;
+  }
+
+  .menu-order-button-container button {
+    width: 60%;
+  }
+
+  .menu-page-content {
+    height: 85%;
+  }
+
+  .product-name-customize-container h1 {
+    font-size: 16px;
+  }
+
+  .cart-number {
+    position: absolute;
+    top: 12%;
+    left: 0%;
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 375px) and (max-height: 640px) {
+  .menu-page-content {
+    height: 80%;
+  }
+
+  .product-name-1-coffe h2,
+  .product-name-2-coffe h2,
+  .product-name-3-coffe h2,
+  .product-name-4-coffe h2,
+  .product-name-5-coffe h2,
+  .product-name-6-coffe h2,
+  .product-name-1-dessert h2,
+  .product-name-2-dessert h2,
+  .product-name-3-dessert h2,
+  .product-name-4-dessert h2,
+  .product-name-5-dessert h2,
+  .product-name-6-dessert h2 {
+    font-size: 10px;
+  }
+
+  .product-price-1-coffe p,
+  .product-price-2-coffe p,
+  .product-price-3-coffe p,
+  .product-price-4-coffe p,
+  .product-price-5-coffe p,
+  .product-price-6-coffe p,
+  .product-price-1-dessert p,
+  .product-price-2-dessert p,
+  .product-price-3-dessert p,
+  .product-price-4-dessert p,
+  .product-price-5-dessert p,
+  .product-price-6-dessert p {
+    font-size: 11px;
+  }
+
+  .menu-order-button-container button {
+    font-size: 10px;
+  }
+
+  .product-image-1-coffe,
+  .product-image-2-coffe,
+  .product-image-3-coffe,
+  .product-image-4-coffe,
+  .product-image-5-coffe,
+  .product-image-6-coffe,
+  .product-image-1-dessert,
+  .product-image-2-dessert,
+  .product-image-3-dessert,
+  .product-image-4-dessert,
+  .product-image-5-dessert,
+  .product-image-6-dessert {
+    height: 40%;
+
+    align-items: flex-end;
+  }
+
+  .menu-order-button-container {
+    height: 18%;
+  }
+
+  .product-price-1-coffe,
+  .product-price-2-coffe,
+  .product-price-3-coffe,
+  .product-price-4-coffe,
+  .product-price-5-coffe,
+  .product-price-6-coffe,
+  .product-price-1-dessert,
+  .product-price-2-dessert,
+  .product-price-3-dessert,
+  .product-price-4-dessert,
+  .product-price-5-dessert,
+  .product-price-6-dessert {
+    margin-bottom: 5%;
+  }
+
+  .menu-page-container {
+    padding-top: 60px;
+  }
+
+  .customize-option-content-1 input,
+  .customize-option-content-2 input,
+  .customize-option-content-3 input,
+  .customize-option-content-4 input,
+  .customize-option-content-5 input,
+  .customize-option-content-6 input,
+  .customize-option-content-7 input {
+    height: 16px;
+    width: 16px;
+  }
+
+  .customize-options-container label {
+    font-size: 10px;
+  }
+
+  .cart-sidebar-container {
+    width: 43vw;
+  }
+  .cart-number {
+    position: absolute;
+    top: 9%;
+    left: 0%;
+    font-size: 13px;
+  }
+}
+
+@media screen and (max-width: 360px) and (max-height: 640px) {
+  .cart-sidebar-container {
+    width: 45vw;
+  }
+
+  .cart-product-quantity-container span {
+    font-size: 14px;
+
+    width: 19px;
+    height: 14px;
+  }
+
+  .cart-product-price-container p {
+    font-size: 12px;
+  }
+
+  .product-name-customize-container h1 {
+    font-size: 14px;
+  }
+  .cart-number {
+    position: absolute;
+    top: 9%;
+    left: 0%;
+    font-size: 13px;
+  }
+}
+
+@media screen and (max-width: 320px) and (max-height: 640px) {
+  .row-1-item-1,
+  .row-1-item-2,
+  .row-1-item-3,
+  .row-2-item-1,
+  .row-2-item-2,
+  .row-2-item-3,
+  .row-3-item-1,
+  .row-3-item-2,
+  .row-3-item-3,
+  .row-4-item-1,
+  .row-4-item-2,
+  .row-4-item-3 {
+    height: 85%;
+  }
+
+  .cart-number {
+    position: absolute;
+    top: 8%;
+    left: 0%;
+    font-size: 13px;
+  }
+}

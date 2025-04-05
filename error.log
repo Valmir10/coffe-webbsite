@@ -1,0 +1,10 @@
+{"level":"error","message":"Failed to save cart item Table 'coffee_shop.cart' doesn't exist"}
+{"level":"error","message":"Failed to fetch cart items Table 'coffee_shop.cart' doesn't exist"}
+{"level":"error","message":"Failed to fetch cart items Table 'coffee_shop.cart' doesn't exist"}
+{"level":"error","message":"Failed to save cart item Table 'coffee_shop.cart' doesn't exist"}
+{"level":"error","message":"Failed to fetch cart items Table 'coffee_shop.cart' doesn't exist"}
+{"level":"error","message":"Failed to fetch cart items Table 'coffee_shop.cart' doesn't exist"}
+{"level":"error","message":"Failed to fetch cart items Table 'coffee_shop.cart' doesn't exist"}
+{"level":"error","message":"Failed to fetch cart items Table 'coffee_shop.cart' doesn't exist"}
+{"level":"error","message":"Failed to fetch cart items Table 'coffee_shop.cart' doesn't exist"}
+{"level":"error","message":"Failed to save cart item Column 'name' cannot be null"}

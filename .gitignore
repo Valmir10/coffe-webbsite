@@ -1,0 +1,25 @@
+# node_modules ska aldrig pushas
+node_modules/
+
+# loggfiler
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# OS-filer (macOS)
+.DS_Store
+
+# miljövariabler
+.env
+.env.local
+
+# byggen & cache
+dist/
+build/
+
+# editor-filer
+.vscode/
+.idea/
+
+# test coverage
+coverage/

@@ -1,0 +1,1209 @@
+@media screen and (max-width: 1700px) and (max-height: 1200px) {
+  .search-icon-image-container img {
+    height: 20%;
+  }
+}
+
+@media screen and (max-width: 1500px) and (max-height: 1080px) {
+  .advertising-container {
+    top: 48%;
+  }
+}
+
+@media screen and (max-width: 1470px) and (max-height: 930px) {
+}
+
+@media screen and (max-width: 1366px) and (max-height: 900px) {
+  .search-icon-image-container img {
+    height: 23%;
+  }
+}
+
+@media screen and (max-width: 1200px) and (max-height: 800px) {
+  .list-container {
+    width: 60%;
+  }
+
+  .text-about-product-container p {
+    font-size: 14px;
+  }
+
+  .explore-menu-content-left,
+  .explore-menu-content-right {
+    height: 85%;
+  }
+
+  .name-price-container {
+    height: 35%;
+  }
+
+  .text-about-product-container {
+    height: 65%;
+    width: 100%;
+  }
+
+  .explore-menu-coffe-picture img,
+  .explore-menu-dessert-picture img {
+    width: 75%;
+  }
+
+  .view-all-menu-button-container button {
+    width: 20%;
+    height: 55%;
+  }
+
+  .mocha-p-container {
+    margin-bottom: 2%;
+  }
+
+  .text-1-content p,
+  .text-2-content p,
+  .text-3-content p,
+  .text-4-content p {
+    font-size: 17px;
+  }
+
+  .search-icon-image-container img {
+    height: 22%;
+    width: 40%;
+  }
+
+  .social-media-about-us-content {
+    width: 50%;
+  }
+
+  .contact-us-form-container {
+    width: 45%;
+    height: 70%;
+  }
+}
+
+@media screen and (max-width: 1024px) and (max-height: 720px) {
+  .search-icon-image-container img {
+    height: 23%;
+    width: 41%;
+  }
+
+  .cart-img-container img {
+    width: 63%;
+    height: 38%;
+  }
+
+  .welcome-mocha-text-container {
+    height: 30%;
+    width: 32%;
+    left: 6%;
+  }
+
+  .text-1 {
+    font-size: 25px;
+  }
+
+  .text-2 {
+    font-size: 38px;
+  }
+
+  .text-3 {
+    font-size: 25px;
+  }
+
+  .button-background-image-container {
+    left: 7%;
+    top: 33%;
+    width: 23% !important;
+    height: 6%;
+  }
+
+  .text-1-explore-container h2 {
+    font-size: 21px;
+  }
+
+  .text-2-explore-container h3 {
+    font-size: 16px;
+  }
+
+  .explore-coffe-image-container,
+  .explore-desserts-image-container,
+  .explore-customize-image-container {
+    height: 40%;
+    width: 60%;
+  }
+
+  .advertising-container {
+    position: absolute;
+    height: 14%;
+    width: 70%;
+    left: 15%;
+  }
+
+  .coffe-beans-text-container p,
+  .flavor-text-container p,
+  .dessert-text-container p {
+    font-size: 15px;
+  }
+  .menu-container-section {
+    height: 100vh;
+  }
+
+  .name-container p,
+  .price-container p {
+    font-size: 16px;
+  }
+
+  .text-about-product-container p {
+    font-size: 13px;
+  }
+
+  .explore-menu-name-price-text-container {
+    width: 60%;
+  }
+
+  .explore-menu-coffe-picture img,
+  .explore-menu-dessert-picture img {
+    width: 85%;
+  }
+
+  .text-1-content p,
+  .text-2-content p,
+  .text-3-content p,
+  .text-4-content p {
+    font-size: 15px;
+  }
+
+  .social-media-about-us-content {
+    width: 60%;
+  }
+
+  #main-container {
+    padding-top: 70px;
+  }
+}
+
+@media screen and (max-width: 900px) and (max-height: 1600px) {
+  #header-container {
+    height: 8vh;
+  }
+
+  .home-container-section {
+    height: 75vh;
+  }
+
+  .menu-container-section {
+    height: 50vh;
+  }
+
+  .about-us-container-section {
+    height: 220vh;
+  }
+
+  .contact-us-container-section {
+    height: 55vh;
+  }
+
+  .welcome-mocha-text-container {
+    height: 30%;
+    width: 32%;
+    left: 6%;
+  }
+
+  .text-1 {
+    font-size: 25px;
+  }
+
+  .text-2 {
+    font-size: 38px;
+  }
+
+  .text-3 {
+    font-size: 25px;
+  }
+
+  .button-background-image-container {
+    left: 7%;
+    top: 33%;
+    width: 23% !important;
+    height: 6%;
+  }
+
+  .advertising-container {
+    position: absolute;
+    height: 14%;
+    width: 70%;
+    left: 15%;
+    top: 47.5%;
+  }
+
+  .text-1-explore-container h2 {
+    font-size: 21px;
+  }
+
+  .text-2-explore-container h3 {
+    font-size: 16px;
+  }
+
+  /**/
+
+  .name-container p,
+  .price-container p {
+    font-size: 16px;
+  }
+
+  .text-about-product-container p {
+    font-size: 13px;
+  }
+
+  .explore-menu-name-price-text-container {
+    width: 60%;
+  }
+
+  .explore-menu-coffe-picture img,
+  .explore-menu-dessert-picture img {
+    width: 85%;
+  }
+
+  .view-all-menu-button-container button {
+    width: 20%;
+    height: 65%;
+  }
+
+  .text-1-content p,
+  .text-2-content p,
+  .text-3-content p,
+  .text-4-content p {
+    font-size: 15px;
+  }
+
+  .social-media-about-us-content {
+    width: 60%;
+  }
+
+  .name-price-container {
+    height: 30%;
+  }
+
+  .text-about-product-container {
+    height: 70%;
+  }
+
+  .view-all-menu-button-container button {
+    width: 20%;
+    height: 55%;
+  }
+
+  .list-container {
+    width: 60%;
+  }
+
+  .search-icon-image-container img {
+    height: 22%;
+    width: 60%;
+    display: none;
+  }
+
+  .right-container {
+    align-items: center;
+    justify-content: flex-end;
+  }
+
+  .list-container {
+    width: 75%;
+  }
+
+  .cart-img-container {
+    width: 30%;
+  }
+
+  .search-bar-content {
+    display: none;
+  }
+
+  .about-us-container-1,
+  .about-us-container-2,
+  .about-us-container-3,
+  .about-us-container-4 {
+    height: 50vh;
+  }
+
+  .social-media-about-us-content {
+    width: 65%;
+  }
+
+  .contact-us-form-container {
+    width: 45%;
+    height: 70%;
+  }
+}
+
+@media screen and (max-width: 800px) and (max-height: 1400px) {
+  .text-1 {
+    font-size: 20px;
+  }
+
+  .text-2 {
+    font-size: 32px;
+  }
+
+  .text-3 {
+    font-size: 20px;
+  }
+
+  .text-1-explore-container h2 {
+    font-size: 19px;
+  }
+
+  .text-2-explore-container h3 {
+    font-size: 14px;
+  }
+
+  .text-1-content p,
+  .text-2-content p,
+  .text-3-content p,
+  .text-4-content p {
+    font-size: 14px;
+  }
+  .navigation-contact-us-container a {
+    font-size: 16px;
+  }
+
+  .your-message-content-container textarea {
+    padding-top: 10px;
+  }
+
+  .contact-us-form-container {
+    width: 50%;
+    height: 75%;
+    left: 27%;
+  }
+}
+
+@media screen and (max-width: 768px) and (max-height: 1280px) {
+  .list-container {
+    width: 80%;
+  }
+
+  .advertising-container {
+    position: absolute;
+    height: 14%;
+    width: 75%;
+    left: 13%;
+    top: 47.5%;
+  }
+
+  .text-1-explore-container h2 {
+    font-size: 18px;
+  }
+
+  .text-2-explore-container h3 {
+    font-size: 13px;
+  }
+
+  .name-container {
+    width: 70%;
+  }
+
+  .price-container {
+    width: 30%;
+  }
+
+  .explore-menu-name-price-text-container {
+    width: 70%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .menu-container-section {
+    height: 55vh;
+  }
+
+  .about-us-container-section {
+    height: 250vh;
+  }
+
+  .contact-us-container-section {
+    height: 70vh;
+  }
+
+  .about-us-container-1,
+  .about-us-container-2,
+  .about-us-container-3,
+  .about-us-container-4 {
+    height: 60vh;
+  }
+
+  .heading-1-container {
+    height: 10%;
+  }
+
+  .mocha-p-container h1 {
+    font-size: 25px;
+  }
+
+  .who-we-are-container h2,
+  .heading-2-container h2,
+  .heading-3-container h2,
+  .heading-4-container h2 {
+    font-size: 19px;
+  }
+
+  .social-media-about-us-content {
+    width: 70%;
+  }
+
+  .your-message-content-container textarea {
+    padding-top: 15px;
+  }
+}
+
+@media screen and (max-width: 720px) and (max-height: 1080px) {
+  .welcome-mocha-text-container {
+    left: 4%;
+  }
+
+  .button-background-image-container {
+    left: 4%;
+  }
+
+  .text-1-explore-container h2 {
+    font-size: 17px;
+  }
+
+  .text-2-explore-container h3 {
+    font-size: 13px;
+  }
+
+  .advertising-container {
+    width: 80%;
+    left: 11%;
+    top: 48%;
+  }
+
+  .flavor-text-container p,
+  .dessert-text-container p,
+  .coffe-beans-text-container p {
+    font-size: 16px;
+  }
+
+  .explore-coffe-container {
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .explore-coffe-container,
+  .explore-desserts-container,
+  .explore-customize-container {
+    margin-top: 15%;
+  }
+
+  .menu-container-section {
+    height: 60vh;
+  }
+
+  .text-about-product-container p {
+    font-size: 11px;
+    width: 100%;
+  }
+
+  .explore-menu-coffe-picture img {
+    width: 95%;
+  }
+
+  .explore-menu-name-price-text-container {
+    margin-left: 3%;
+    width: 72%;
+  }
+  .price-container {
+    justify-content: center;
+  }
+
+  .view-all-menu-button-container button {
+    width: 25%;
+  }
+
+  .about-us-container-1,
+  .about-us-container-2,
+  .about-us-container-3,
+  .about-us-container-4 {
+    height: 70vh;
+  }
+
+  .about-us-container-section {
+    height: 290vh;
+  }
+
+  .contact-us-container-section {
+    height: 90vh;
+  }
+
+  .navigation-contact-us-container a {
+    font-size: 15px;
+  }
+
+  .contact-us-form-container {
+    width: 55%;
+    height: 75%;
+    left: 25%;
+    top: 15%;
+  }
+
+  #main-container {
+    padding-top: 60px;
+  }
+
+  .list-container a {
+    font-size: 15px;
+  }
+}
+
+@media screen and (max-width: 600px) and (max-height: 960px) {
+  .welcome-mocha-text-container {
+    height: 30%;
+    width: 32%;
+    left: 4%;
+  }
+
+  .button-background-image-container {
+    top: 35%;
+    width: 23% !important;
+    height: 6%;
+  }
+
+  .text-1 {
+    font-size: 17px;
+  }
+
+  .text-2 {
+    font-size: 27px;
+  }
+
+  .text-3 {
+    font-size: 17px;
+  }
+
+  .text-1-explore-container h2 {
+    font-size: 16px;
+  }
+  .text-2-explore-container h3 {
+    font-size: 12px;
+  }
+
+  .flavor-text-container p,
+  .dessert-text-container p,
+  .coffe-beans-text-container p {
+    font-size: 15px;
+  }
+
+  .explore-coffe-image-container,
+  .explore-desserts-image-container,
+  .explore-customize-image-container {
+    width: 68%;
+  }
+
+  .explore-coffe-text-container,
+  .explore-desserts-text-container,
+  .explore-customize-text-container {
+    width: 80%;
+  }
+
+  .text-about-product-container p {
+    font-size: 10px;
+  }
+
+  .about-us-container-1,
+  .about-us-container-2,
+  .about-us-container-3,
+  .about-us-container-4 {
+    height: 87vh;
+  }
+
+  .about-us-container-section {
+    height: 368vh;
+  }
+
+  .about-us-image-1,
+  .about-us-image-2,
+  .about-us-image-3,
+  .about-us-image-4 {
+    height: 55%;
+    width: 70%;
+  }
+
+  .social-media-about-us-content {
+    width: 80%;
+  }
+  .navigation-contact-us-container a {
+    font-size: 14px;
+  }
+
+  .contact-us-form-container {
+    width: 60%;
+    height: 75%;
+    left: 23%;
+    top: 15%;
+  }
+}
+
+@media screen and (max-width: 480px) and (max-height: 850px) {
+  .left-header-container {
+    flex: 1.1;
+  }
+  .left-header-container img {
+    width: 45%;
+  }
+
+  .list-container {
+    width: 100%;
+  }
+
+  .list-container a {
+    margin-top: 4%;
+    font-size: 13px;
+  }
+
+  .cart-img-container img {
+    height: 45%;
+    width: 60%;
+  }
+
+  .home-container-section {
+    height: 85vh;
+  }
+
+  .welcome-mocha-text-container {
+    height: 30%;
+    width: 45%;
+    left: 7%;
+  }
+
+  .text-1 {
+    font-size: 16px;
+  }
+
+  .text-2 {
+    font-size: 26px;
+  }
+
+  .text-3 {
+    font-size: 16px;
+  }
+
+  .button-background-image-container {
+    top: 35%;
+    width: 25% !important;
+    height: 6%;
+    left: 7%;
+  }
+
+  .button-background-image-container button {
+    font-size: 12px;
+  }
+
+  .name-container p,
+  .price-container p {
+    font-size: 14px;
+  }
+
+  .text-about-product-container p {
+    font-size: 9.5px;
+  }
+
+  .view-all-menu-button-container button {
+    width: 30%;
+  }
+
+  .advertising-container {
+    width: 85%;
+    left: 8%;
+    top: 48%;
+  }
+
+  .flavor-text-container p,
+  .dessert-text-container p,
+  .coffe-beans-text-container p {
+    font-size: 13px;
+  }
+
+  .text-1-explore-container h2 {
+    font-size: 13px;
+  }
+  .text-2-explore-container h3 {
+    font-size: 10px;
+  }
+
+  .explore-coffe-text-container,
+  .explore-desserts-text-container,
+  .explore-customize-text-container {
+    width: 90%;
+  }
+
+  .menu-text-container p,
+  .about-p-container h1,
+  .contact-us-text-container h1 {
+    font-size: 30px;
+  }
+
+  .menu-container-section {
+    height: 100vh;
+  }
+
+  .explore-menu-content-container {
+    flex-direction: column;
+  }
+
+  .explore-menu-content-left {
+    height: 50%;
+    width: 100%;
+    justify-content: center;
+
+    border: none;
+  }
+
+  .explore-menu-content-right {
+    height: 50%;
+    width: 100%;
+
+    justify-content: center;
+  }
+
+  .explore-menu-coffe-picture img {
+    height: 80%;
+    width: 80%;
+  }
+
+  .text-about-product-container p {
+    font-size: 10.5px;
+  }
+  .view-all-menu-button-container button {
+    width: 40%;
+    height: 40%;
+  }
+
+  .about-us-image-container-1,
+  .about-us-image-container-2,
+  .about-us-image-container-3,
+  .about-us-image-container-4 {
+    display: none;
+  }
+
+  .about-us-container-1,
+  .about-us-container-2,
+  .about-us-container-3,
+  .about-us-container-4 {
+    justify-content: center;
+    height: 80vh;
+  }
+
+  .about-us-container-section {
+    height: 330vh;
+  }
+
+  .about-us-container-1 {
+    margin-bottom: 7%;
+  }
+
+  .about-us-text-container-1,
+  .about-us-text-container-2,
+  .about-us-text-container-3,
+  .about-us-text-container-4 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .mocha-p-container,
+  .who-we-are-container,
+  .heading-2-container,
+  .heading-3-container,
+  .heading-4-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .who-we-are-container h2,
+  .heading-2-container h2,
+  .heading-3-container h2,
+  .heading-4-container h2 {
+    font-size: 16px;
+  }
+
+  .mocha-p-container h1 {
+    font-size: 20px;
+  }
+
+  .mocha-p-container h1 {
+    margin-right: 5%;
+  }
+
+  .who-we-are-container h2 {
+    margin-right: 10%;
+  }
+
+  .heading-2-container h2 {
+    margin-right: 15%;
+  }
+
+  .heading-3-container h2 {
+    margin-right: 10%;
+  }
+
+  .heading-4-container h2 {
+    margin-right: 12%;
+  }
+
+  .text-1-content,
+  .text-2-content,
+  .text-3-content,
+  .text-4-content {
+    width: 80%;
+    margin-left: 12%;
+    /* background-color: yellow; */
+  }
+
+  .text-1-content p,
+  .text-2-content p,
+  .text-3-content p,
+  .text-4-content p {
+    font-size: 13px;
+  }
+
+  .contact-us-container-section {
+    height: 100vh;
+  }
+
+  .contact-us-form-container {
+    width: 65%;
+    height: 75%;
+    left: 20%;
+    top: 15%;
+  }
+
+  .social-media-about-us-content {
+    width: 93%;
+  }
+  .navigation-contact-us-container a {
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 414px) and (max-height: 750px) {
+  #header-container {
+    height: 10vh;
+  }
+
+  .home-container-section {
+    height: 100vh;
+  }
+
+  .cart-img-container img {
+    height: 42%;
+    width: 65%;
+  }
+  .button-background-image-container {
+    top: 35%;
+    width: 27% !important;
+    height: 6%;
+    left: 7%;
+  }
+
+  .flavor-text-container p,
+  .dessert-text-container p,
+  .coffe-beans-text-container p {
+    font-size: 11px;
+  }
+
+  .text-1-explore-container h2 {
+    font-size: 13px;
+  }
+  .text-2-explore-container h3 {
+    font-size: 9px;
+  }
+
+  .who-we-are-container h2,
+  .heading-2-container h2,
+  .heading-3-container h2,
+  .heading-4-container h2 {
+    font-size: 15px;
+  }
+
+  .about-us-container-section {
+    height: 370vh;
+  }
+
+  .about-us-container-1,
+  .about-us-container-2,
+  .about-us-container-3,
+  .about-us-container-4 {
+    height: 85vh;
+  }
+
+  .contact-us-form-container {
+    width: 75%;
+    height: 80%;
+    left: 15%;
+    top: 14%;
+  }
+
+  .contact-us-container-section {
+    height: 105vh;
+  }
+
+  .social-media-about-us-content {
+    width: 100%;
+  }
+  .navigation-contact-us-container a {
+    font-size: 11px;
+  }
+}
+
+@media screen and (max-width: 375px) and (max-height: 640px) {
+  .middle-container {
+    flex: 2.1;
+  }
+
+  .cart-img-container img {
+    height: 42%;
+    width: 70%;
+  }
+  .welcome-mocha-text-container {
+    left: 3%;
+    height: 33%;
+  }
+
+  .text-1 {
+    font-size: 16px;
+  }
+
+  .text-2 {
+    font-size: 25px;
+  }
+
+  .text-3 {
+    font-size: 16px;
+  }
+
+  .button-background-image-container {
+    left: 3%;
+  }
+
+  .advertising-container {
+    width: 92%;
+    left: 4%;
+    top: 48%;
+  }
+
+  .text-1-explore-container h2 {
+    font-size: 11px;
+  }
+  .text-2-explore-container {
+    display: none;
+  }
+
+  .view-all-menu-button-container button {
+    width: 48%;
+    height: 42%;
+  }
+
+  .about-us-container-section {
+    height: 430vh;
+  }
+  .who-we-are-container {
+    display: none;
+  }
+
+  .about-p-container h1 {
+    margin-right: 2%;
+  }
+
+  .mocha-p-container h1 {
+    margin-right: 7%;
+  }
+
+  .mocha-p-container h1 {
+    font-size: 20px;
+  }
+
+  .heading-2-container h2 {
+    margin-right: 0% !important;
+    margin-left: 100px;
+  }
+
+  .heading-3-container h2 {
+    margin-right: 0%;
+    margin-left: 110px;
+  }
+
+  .heading-4-container h2 {
+    margin-right: 12%;
+  }
+
+  .about-us-container-1,
+  .about-us-container-2,
+  .about-us-container-3,
+  .about-us-container-4 {
+    height: 100vh;
+  }
+
+  .who-we-are-container h2,
+  .heading-2-container h2,
+  .heading-3-container h2,
+  .heading-4-container h2 {
+    font-size: 13px;
+    width: 100%;
+  }
+
+  .contact-us-container-section {
+    height: 115vh;
+  }
+
+  .contact-us-form-container {
+    width: 83%;
+    height: 83%;
+    left: 9%;
+    top: 12%;
+  }
+
+  .your-message-content-container textarea {
+    padding-top: 13px;
+  }
+
+  .navigation-contact-us-container {
+    width: 95%;
+    margin-left: 2.7%;
+  }
+
+  .created-by-text h3,
+  .valmir h3 {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 375px) and (max-height: 640px) {
+  .list-container a {
+    font-size: 12px;
+  }
+
+  .about-p-container {
+    height: 4%;
+  }
+
+  .heading-4-container {
+    margin-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 320px) and (max-height: 640px) {
+  .middle-container {
+    flex: 2.3;
+  }
+  .cart-img-container img {
+    height: 42%;
+    width: 80%;
+  }
+
+  .flavor-text-container p,
+  .dessert-text-container p,
+  .coffe-beans-text-container p {
+    font-size: 9px;
+  }
+
+  .advertising-container {
+    width: 97%;
+    left: 1.5%;
+    top: 48%;
+  }
+
+  .text-1-explore-container h2 {
+    font-size: 10px;
+  }
+
+  .menu-container-section {
+    height: 110vh;
+  }
+
+  .name-container p,
+  .price-container p {
+    font-size: 13px;
+  }
+
+  .about-us-container-section {
+    height: 390vh;
+  }
+
+  .about-us-container-1,
+  .about-us-container-2,
+  .about-us-container-3,
+  .about-us-container-4 {
+    height: 90vh;
+  }
+
+  .who-we-are-container h2,
+  .heading-2-container h2,
+  .heading-3-container h2,
+  .heading-4-container h2 {
+    font-size: 12px;
+  }
+
+  .text-1-content p,
+  .text-2-content p,
+  .text-3-content p,
+  .text-4-content p {
+    font-size: 11px;
+  }
+
+  .heading-2-container h2 {
+    margin-right: 0% !important;
+    margin-left: 80px;
+  }
+
+  .heading-3-container h2 {
+    margin-right: 0%;
+    margin-left: 90px;
+  }
+
+  .heading-4-container h2 {
+    margin-left: 12%;
+  }
+
+  .contact-us-container-section {
+    height: 120vh;
+  }
+  .contact-us-form-container {
+    width: 90%;
+    height: 83%;
+    left: 5%;
+    top: 12%;
+  }
+
+  .navigation-contact-us-container {
+    width: 100%;
+    margin-right: 50px;
+  }
+
+  .navigation-contact-us-container a {
+    font-size: 10px;
+  }
+
+  .navigation-contact-us-container {
+    margin: 0;
+  }
+}
+
+/*
+
+
+
+.welcome-mocha-text-container {
+  position: absolute;
+  height: 20%;
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  left: 7%;
+  top: 5%;
+  gap: 5%;
+}
+
+*/

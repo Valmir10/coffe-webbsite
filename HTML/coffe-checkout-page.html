@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+      rel="stylesheet"
+    />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/CSS/coffe-home-page.css" />
+    <link rel="stylesheet" href="/CSS/coffe-menu-page.css" />
+    <link rel="stylesheet" href="/CSS/coffe-checkout-page.css" />
+    <link rel="stylesheet" href="/CSS/responsive-checkout-page.css" />
+    <link rel="stylesheet" href="/CSS/responsive-home-page.css" />
+    <link rel="stylesheet" href="/CSS/responsive-menu-page.css" />
+
+    <title>Mocha Esspresso</title>
+  </head>
+  <body>
+    <!--HEADER-->
+    <header id="header-container">
+      <div class="left-header-container">
+        <img src="/img/Mocha-esspresso-image.2.png" />
+      </div>
+
+      <div class="middle-container">
+        <div class="list-container">
+          <a id="header-link" href="#main-container">Home</a>
+          <a id="menu-link" href="#menu-container-section">Menu</a>
+          <a id="about-us-link" href="#about-us-container-section">About us</a>
+          <a id="contact-us-link" href="#contact-us-container-section"
+            >Contact us</a
+          >
+          <!-- <a id="checkout-link" href="#checkout-page-container">Checkout</a> -->
+        </div>
+      </div>
+
+      <div class="right-container">
+        <div class="search-bar-content">
+          <label class="search-input-container" for="search-input">
+            <input placeholder="Search..." type="text" id="search-input" />
+          </label>
+
+          <div class="search-icon-image-container">
+            <img class="search-icon-image" src="/img/search-icon-coffee.png" />
+            <div class="search-icon-tooltip">Search</div>
+          </div>
+        </div>
+
+        <div class="cart-img-container">
+          <img src="/img/cart-6.png" alt="cart-image" />
+          <p class="cart-number"></p>
+          <p></p>
+        </div>
+      </div>
+    </header>
+
+    <main id="checkout-page-container" class="checkout-page-container">
+      <section class="checkout-payemnt-information-container">
+        <form class="products-payment-information-container">
+          <div class="payment-header-container">
+            <p>Payment</p>
+          </div>
+
+          <div class="first-last-name-container">
+            <div class="first-last-name-content">
+              <label class="first-name-label" for="first-name">
+                <input
+                  placeholder="First name"
+                  id="first-name"
+                  type="text"
+                  required
+                />
+              </label>
+              <label class="last-name-label" for="last-name">
+                <input
+                  placeholder="Last name"
+                  id="last-name"
+                  type="text"
+                  required
+                />
+              </label>
+            </div>
+          </div>
+
+          <div class="email-container">
+            <div class="email-content">
+              <label class="email-label" for="email">
+                <input placeholder="Email" id="email" type="email" required />
+              </label>
+            </div>
+          </div>
+
+          <div class="card-number-container">
+            <div class="card-number-content">
+              <label class="card-number-label" for="card-number">
+                <input
+                  placeholder="Card number"
+                  id="card-number"
+                  type="text"
+                  inputmode="numeric"
+                  pattern="\d{16}"
+                  maxlength="16"
+                  required
+                />
+              </label>
+            </div>
+          </div>
+
+          <div class="mm-yy-cvc-container">
+            <div class="mm-yy-cvc-content">
+              <label class="mm-yy-label" for="mm-yy">
+                <input
+                  placeholder="MM/YY"
+                  id="mm-yy"
+                  type="text"
+                  pattern="(0[1-9]|1[0-2])\/\d{2}"
+                  maxlength="5"
+                  inputmode="numeric"
+                  required
+                />
+              </label>
+              <label class="cvc-label" for="cvc">
+                <input
+                  placeholder="CVC"
+                  id="cvc"
+                  type="number"
+                  maxlength="4"
+                  pattern="\d{3,4}"
+                  inputmode="numeric"
+                  required
+                />
+              </label>
+            </div>
+          </div>
+
+          <div id="pay-button-container">
+            <button>Pay</button>
+          </div>
+        </form>
+      </section>
+
+      <!--product information summary-->
+
+      <section class="checkout-product-container">
+        <div class="products-information-container">
+          <div class="product-symmary-header-container">
+            <p>Products Summary</p>
+          </div>
+
+          <div class="product-summary-container">
+            <div class="product-content-container">
+              <div class="product-name-price-container">
+                <p></p>
+              </div>
+
+              <div class="product-quantity-container">
+                <p></p>
+              </div>
+            </div>
+
+            <div class="product-content-container">
+              <div class="product-name-price-container">
+                <p></p>
+              </div>
+
+              <div class="product-quantity-container">
+                <p></p>
+              </div>
+            </div>
+          </div>
+
+          <div class="order-summary-container">
+            <div class="price-summary-header-container">
+              <p>Price Summary</p>
+            </div>
+
+            <div class="order-summary-content-container">
+              <div class="products-price-container">
+                <p>Products price:</p>
+              </div>
+
+              <div class="customize-options-summary-container">
+                <p>Customizations:</p>
+              </div>
+
+              <div class="total-price-container">
+                <p>Total Price:</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div class="loading-screen" id="loading-screen">
+        <div class="circle" id="circle">
+          <div class="checkmark" id="checkmark"></div>
+        </div>
+      </div>
+    </main>
+  </body>
+  <script src="/Javascript/coffe-home-page.js"></script>
+  <script src="/Javascript/navigation.js"></script>
+  <script src="/Javascript/checkout.js"></script>
+</html>
